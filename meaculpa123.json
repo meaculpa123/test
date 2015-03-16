@@ -1,0 +1,14 @@
+[
+  {
+    url: "http://www.google.com",
+    title: "Google",
+    description: "Google",
+    tags: "google, search engine"
+  },
+  {
+    url: "http://www.salesforce.com",
+    title: "Salesforce",
+    description: "Salesforce",
+    tags: "salesforce, crm"
+  }
+]
